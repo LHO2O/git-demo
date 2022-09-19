@@ -9,21 +9,3 @@ Hello!This is my first demo!
 Hello!This is my first demo!
 Hello!This is my first demo!
 Hello!This is my first demo!
-
-
-
-<<<<<<< HEAD
-hot fix hot fix
-
-
-master test
-master test
-master test
-=======
-hot fix hot fix 
-
-
-hot fix test
-hot fix test
-hot fix test
->>>>>>> hot-fix
